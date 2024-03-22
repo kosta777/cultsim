@@ -1,0 +1,3 @@
+/Users/kosta/projects/cultsim/build/Release/CMakeFiles/cultsim.dir
+/Users/kosta/projects/cultsim/build/Release/CMakeFiles/edit_cache.dir
+/Users/kosta/projects/cultsim/build/Release/CMakeFiles/rebuild_cache.dir

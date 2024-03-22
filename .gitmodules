@@ -1,0 +1,6 @@
+[submodule "libSDL2pp"]
+	path = libSDL2pp
+	url = git@github.com:libSDL2pp/libSDL2pp.git
+[submodule "extlib/libSDL2pp"]
+	path = extlib/libSDL2pp
+	url = git@github.com:libSDL2pp/libSDL2pp.git

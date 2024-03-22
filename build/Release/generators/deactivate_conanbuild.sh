@@ -1,0 +1,1 @@
+. "/Users/kosta/projects/cultsim/build/Release/generators/deactivate_conanbuildenv-release-armv8.sh"

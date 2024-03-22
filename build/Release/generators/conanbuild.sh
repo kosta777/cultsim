@@ -1,0 +1,1 @@
+. "/Users/kosta/projects/cultsim/build/Release/generators/conanbuildenv-release-armv8.sh"
